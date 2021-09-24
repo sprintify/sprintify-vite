@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Helsefagarbeider',
     lang: 'en-US',
-    base: '/sprintify-vite/',
+    base: '/docs',
     
     themeConfig: {
 
