@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Helsefagarbeider',
     lang: 'en-US',
-    base: '/sprintify-helse/',
+    base: '/sprintify-vite/',
     
     themeConfig: {
 
@@ -11,7 +11,7 @@ module.exports = {
 
         algolia: {
             apiKey: '',
-            indexName: 'lessons'
+            indexName: ''
         },
 
         nav: [
